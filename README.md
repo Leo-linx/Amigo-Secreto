@@ -2,7 +2,7 @@
 
 -Estado del proyecto: Presentacion del desafio en Alura Latam Oracle One
 
--Programacion: en HTML , javascript, CCS y una carpeta de imagenes llamada assets
+-Programacion: en HTML , javascript, CCS y una carpeta de imagenes llamada "assets"
 
 -Fecha: 25 enero 2025
 
